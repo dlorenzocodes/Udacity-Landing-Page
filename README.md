@@ -1,17 +1,17 @@
 # Project Title
 
-    Udacity Unit 2 - Landing Page Project
+Udacity Unit 2 - Landing Page Project
 
 ## Demo-Preview 
 
-    https://dlorenzocodes.github.io/Udacity-Landing-Page/
+https://dlorenzocodes.github.io/Udacity-Landing-Page/
 
 ## Installation
 
-    Clone by using git clone command
-    ```bash 
-    git clone
-    ```
+Clone by using git clone command
+```bash 
+git clone
+```
 
 ## Features
 
@@ -27,15 +27,14 @@
 
 ## Credits
 
-    Illustrations and icons are from 
-    [freepik] (https://www.freepik.com/) and [flaticon] (icon.com/search?word=location&type=icon)
+Illustrations and icons are from 
+[freepik](https://www.freepik.com/) and [flaticon](icon.com/search?word=location&type=icon).
 
-    Image is from [pexels] (www.pexels.com)
+Image is from [pexels](www.pexels.com).
 
 ## License 
 
     Logo has all rights reserved. Not for personal or commercial use.
-
     Landing Page Project is free for personal use. 
 
 
